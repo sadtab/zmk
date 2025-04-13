@@ -16,3 +16,7 @@ __pycache__
 
 # clangd
 app/.cache/
+
+# Sadegh
+/miryoku_zmk_st
+/zmk-nice-oled
